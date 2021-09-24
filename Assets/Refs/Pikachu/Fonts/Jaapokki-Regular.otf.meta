@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 6974c11bee3a0417488038c01e6baa0f
+timeCreated: 1508344678
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Jaapokki
+  fontNames:
+  - Jaapokki
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

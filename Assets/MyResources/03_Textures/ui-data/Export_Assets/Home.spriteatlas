@@ -1,0 +1,110 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Home
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 2
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 1024
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 1
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    - serializedVersion: 3
+      m_BuildTarget: Android
+      m_MaxTextureSize: 1024
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 65
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 1
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 8
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 7156817de345e39458c8d083ace6f00b, type: 3}
+    totalSpriteSurfaceArea: 3114257
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 78a0f880d96f5e740aa9d152c6ab1fc5, type: 3}
+  - {fileID: 21300000, guid: 01ce80e357a2a3e48baae55f9c81e9c2, type: 3}
+  - {fileID: 21300000, guid: 85e868e3b852e844fa765676af3bc4a1, type: 3}
+  - {fileID: 21300000, guid: f37533b41b54c4f4595e41641983b940, type: 3}
+  - {fileID: 21300000, guid: f83ef1c4118462947952cad27caa4bcb, type: 3}
+  - {fileID: 21300000, guid: e65197a5d7ebef343a1337583b8b9e22, type: 3}
+  - {fileID: 21300000, guid: 28b320c6aa5bde74484a4fa6f3fae110, type: 3}
+  - {fileID: 21300000, guid: cead7d276cc06fe4ea707e7de34853e9, type: 3}
+  - {fileID: 21300000, guid: d87afe77e8af9404fb2a7e48a33843d3, type: 3}
+  - {fileID: 21300000, guid: 2ac4198720a268b47bc5630e2e740ec8, type: 3}
+  - {fileID: 21300000, guid: a7f96ab75fdb8f84cad3728b2f036953, type: 3}
+  - {fileID: 21300000, guid: 4a9d79083e899bb45a44d1942fddd267, type: 3}
+  - {fileID: 21300000, guid: 3744bb58456858346bf260a3b9308641, type: 3}
+  - {fileID: 21300000, guid: a3b6d178b61bd2b478d69343609301cf, type: 3}
+  - {fileID: 21300000, guid: 2a9379b80c8ffbf4392a4024527f5031, type: 3}
+  - {fileID: 21300000, guid: 19e70499562d99a408d66ca2fd18c4cd, type: 3}
+  - {fileID: 21300000, guid: c45ba92afa9dc7044ba5d93e675d5d6a, type: 3}
+  - {fileID: 21300000, guid: 690943fcdebc0fb4cb8f1901611afafb, type: 3}
+  - {fileID: 21300000, guid: f43a247d0d875ab42a08b05b1fe05a56, type: 3}
+  - {fileID: 21300000, guid: a7341e4eb7450894d986334d585c85aa, type: 3}
+  - {fileID: 21300000, guid: 2a08fccf2530ca74093edf03be3ad187, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - button_green_long
+  - button_VIP_touched
+  - button_green_long_touched
+  - button_yellow
+  - decor_flag
+  - logo TILE MATCH
+  - play
+  - sale
+  - VIP
+  - button_SALE
+  - decor_animal
+  - setting
+  - tutorial
+  - decor_tree
+  - button_SALE_touched
+  - decor_tree2
+  - Logo
+  - button_yellow_touched
+  - decor_cloud
+  - BG
+  - button_VIP
+  m_RenderDataMap: {}
+  m_Tag: Home
+  m_IsVariant: 0

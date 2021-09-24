@@ -1,0 +1,96 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Play
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 1
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 8
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: b68d821d703ad6c4a9e1f3582deea2f0, type: 3}
+    totalSpriteSurfaceArea: 873863
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 45aa762367eb0c0498ee1cc63663b331, type: 3}
+  - {fileID: 21300000, guid: d6301f337aeef7e47b339c0aac5ab3da, type: 3}
+  - {fileID: 21300000, guid: 7c78c043eea40fc42a8531318e7e832e, type: 3}
+  - {fileID: 21300000, guid: 255d457391b018c40b51f430b1798920, type: 3}
+  - {fileID: 21300000, guid: 18b05e93385b1df449aa3927fb0cfe4e, type: 3}
+  - {fileID: 21300000, guid: a8d733b311bf9054793971215500faff, type: 3}
+  - {fileID: 21300000, guid: feef6ce3d1241114298d0f035d819458, type: 3}
+  - {fileID: 21300000, guid: 716bcb4442518f64eabdf3e96b0bf075, type: 3}
+  - {fileID: 21300000, guid: 14c1d9b5b4175ed458fefaf0f23728cd, type: 3}
+  - {fileID: 21300000, guid: c3f8fc26acf308c40a884e0b8a953fa9, type: 3}
+  - {fileID: 21300000, guid: 3e811b6669adbfd4483eaf745a392fad, type: 3}
+  - {fileID: 21300000, guid: 25a5d3f6f28836749be8fa15992f602d, type: 3}
+  - {fileID: 21300000, guid: 25768e8740e1b7f43abd324da1048dc1, type: 3}
+  - {fileID: 21300000, guid: 13ce2ea7d1b17124396447dd3d29f4dd, type: 3}
+  - {fileID: 21300000, guid: 211e80b7e7d1efd4f837eedb568c5aae, type: 3}
+  - {fileID: 21300000, guid: d162a8a86a8ca62449f2b31dcf209962, type: 3}
+  - {fileID: 21300000, guid: bdf19ea878274d045b7b79b9dfa64e23, type: 3}
+  - {fileID: 21300000, guid: 80265e59e6c65a744bf0be617fc063f3, type: 3}
+  - {fileID: 21300000, guid: 39ea482d05ff16343bebf88bd0b424b0, type: 3}
+  - {fileID: 21300000, guid: cffe666eab212a6479d8aaef3cea77e8, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - shuffle
+  - time_meter
+  - score_board
+  - button_pause
+  - rows
+  - time_meter_board
+  - pause
+  - time meter board_black
+  - mag
+  - fire
+  - icon_01
+  - button_booster
+  - button booster_black
+  - Action_Phase_BG
+  - choose
+  - score board_black
+  - theme
+  - cell
+  - noti
+  - Fire_time
+  m_RenderDataMap: {}
+  m_Tag: Play
+  m_IsVariant: 0

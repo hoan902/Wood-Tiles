@@ -1,0 +1,4178 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7b10c01a100889446b7edac632ef54c9, type: 3}
+  m_Name: MissionData
+  m_EditorClassIdentifier: 
+  _listMissions:
+  - missionName: CLASSIC
+    ID: 0
+    levels:
+    - ID: 1
+      LevelName: Level 1
+      IsCheckPoint: 1
+      Width: 9
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 1
+    - ID: 2
+      LevelName: Level 2
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 1
+    - ID: 3
+      LevelName: Level 3
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 1
+    - ID: 4
+      LevelName: Level 4
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 1
+    - ID: 5
+      LevelName: Level 5
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 6
+      LevelName: Level 6
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 7
+      LevelName: Level 7
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 8
+      LevelName: Level 8
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 9
+      LevelName: Level 9
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 10
+      LevelName: Level 10
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 11
+      LevelName: Level 11
+      IsCheckPoint: 1
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 12
+      LevelName: Level 12
+      IsCheckPoint: 0
+      Width: 10
+      Height: 10
+      GlobalMoveMode: 1
+      IsLoop: 1
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 1
+    - ID: 13
+      LevelName: Level 13
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 14
+      LevelName: Level 14
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 15
+      LevelName: Level 15
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 1
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 1
+    - ID: 16
+      LevelName: Level 16
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 17
+      LevelName: Level 17
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 18
+      LevelName: Level 18
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 19
+      LevelName: Level 19
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 20
+      LevelName: Level 20
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 21
+      LevelName: Level 21
+      IsCheckPoint: 1
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 22
+      LevelName: Level 22
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 23
+      LevelName: Level 23
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 24
+      LevelName: Level 24
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 25
+      LevelName: Level 25
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 26
+      LevelName: Level 26
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 27
+      LevelName: Level 27
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 28
+      LevelName: Level 28
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 29
+      LevelName: Level 29
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 30
+      LevelName: Level 30
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 31
+      LevelName: Level 31
+      IsCheckPoint: 1
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 32
+      LevelName: Level 32
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 33
+      LevelName: Level 33
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 34
+      LevelName: Level 34
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 35
+      LevelName: Level 35
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 36
+      LevelName: Level 36
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 37
+      LevelName: Level 37
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 38
+      LevelName: Level 38
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 39
+      LevelName: Level 39
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 40
+      LevelName: Level 40
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 41
+      LevelName: Level 41
+      IsCheckPoint: 1
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 42
+      LevelName: Level 42
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 43
+      LevelName: Level 43
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 44
+      LevelName: Level 44
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 45
+      LevelName: Level 45
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 46
+      LevelName: Level 46
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 47
+      LevelName: Level 47
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 48
+      LevelName: Level 48
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 49
+      LevelName: Level 49
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 50
+      LevelName: Level 50
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 51
+      LevelName: Level 51
+      IsCheckPoint: 1
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 52
+      LevelName: Level 52
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 53
+      LevelName: Level 53
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 54
+      LevelName: Level 54
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 55
+      LevelName: Level 55
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 56
+      LevelName: Level 56
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 57
+      LevelName: Level 57
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 58
+      LevelName: Level 58
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 59
+      LevelName: Level 59
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 60
+      LevelName: Level 60
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 61
+      LevelName: Level 61
+      IsCheckPoint: 1
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 62
+      LevelName: Level 62
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 63
+      LevelName: Level 63
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 64
+      LevelName: Level 64
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 65
+      LevelName: Level 65
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 66
+      LevelName: Level 66
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 67
+      LevelName: Level 67
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 68
+      LevelName: Level 68
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 69
+      LevelName: Level 69
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 70
+      LevelName: Level 70
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 71
+      LevelName: Level 71
+      IsCheckPoint: 1
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 72
+      LevelName: Level 72
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 73
+      LevelName: Level 73
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 74
+      LevelName: Level 74
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 75
+      LevelName: Level 75
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 76
+      LevelName: Level 76
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 77
+      LevelName: Level 77
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 78
+      LevelName: Level 78
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 79
+      LevelName: Level 79
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 80
+      LevelName: Level 80
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 81
+      LevelName: Level 81
+      IsCheckPoint: 1
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 82
+      LevelName: Level 82
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 83
+      LevelName: Level 83
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 84
+      LevelName: Level 84
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 85
+      LevelName: Level 85
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 86
+      LevelName: Level 86
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 87
+      LevelName: Level 87
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 88
+      LevelName: Level 88
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 89
+      LevelName: Level 89
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 90
+      LevelName: Level 90
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 91
+      LevelName: Level 91
+      IsCheckPoint: 1
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 92
+      LevelName: Level 92
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 93
+      LevelName: Level 93
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 94
+      LevelName: Level 94
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 95
+      LevelName: Level 95
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 96
+      LevelName: Level 96
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 97
+      LevelName: Level 97
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 98
+      LevelName: Level 98
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 99
+      LevelName: Level 99
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 100
+      LevelName: Level 100
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 101
+      LevelName: Level 101
+      IsCheckPoint: 1
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 102
+      LevelName: Level 102
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 103
+      LevelName: Level 103
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 104
+      LevelName: Level 104
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 105
+      LevelName: Level 105
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 106
+      LevelName: Level 106
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 107
+      LevelName: Level 107
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 108
+      LevelName: Level 108
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 109
+      LevelName: Level 109
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 110
+      LevelName: Level 110
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 111
+      LevelName: Level 111
+      IsCheckPoint: 1
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 112
+      LevelName: Level 112
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 113
+      LevelName: Level 113
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 114
+      LevelName: Level 114
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 115
+      LevelName: Level 115
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 116
+      LevelName: Level 116
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 117
+      LevelName: Level 117
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 118
+      LevelName: Level 118
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 119
+      LevelName: Level 119
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 120
+      LevelName: Level 120
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 121
+      LevelName: Level 121
+      IsCheckPoint: 1
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 122
+      LevelName: Level 122
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 123
+      LevelName: Level 123
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 124
+      LevelName: Level 124
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 125
+      LevelName: Level 125
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 126
+      LevelName: Level 126
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 127
+      LevelName: Level 127
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 128
+      LevelName: Level 128
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 129
+      LevelName: Level 129
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 130
+      LevelName: Level 130
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 131
+      LevelName: Level 131
+      IsCheckPoint: 1
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 132
+      LevelName: Level 132
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 133
+      LevelName: Level 133
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 134
+      LevelName: Level 134
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 135
+      LevelName: Level 135
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 136
+      LevelName: Level 136
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 137
+      LevelName: Level 137
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 138
+      LevelName: Level 138
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 139
+      LevelName: Level 139
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 140
+      LevelName: Level 140
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 141
+      LevelName: Level 141
+      IsCheckPoint: 1
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 142
+      LevelName: Level 142
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 143
+      LevelName: Level 143
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 144
+      LevelName: Level 144
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 145
+      LevelName: Level 145
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 146
+      LevelName: Level 146
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 147
+      LevelName: Level 147
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 148
+      LevelName: Level 148
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 149
+      LevelName: Level 149
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 150
+      LevelName: Level 150
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 151
+      LevelName: Level 151
+      IsCheckPoint: 1
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 152
+      LevelName: Level 152
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 153
+      LevelName: Level 153
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 154
+      LevelName: Level 154
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 155
+      LevelName: Level 155
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 156
+      LevelName: Level 156
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 157
+      LevelName: Level 157
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 158
+      LevelName: Level 158
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 159
+      LevelName: Level 159
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 160
+      LevelName: Level 160
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 161
+      LevelName: Level 161
+      IsCheckPoint: 1
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 162
+      LevelName: Level 162
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 163
+      LevelName: Level 163
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 164
+      LevelName: Level 164
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 165
+      LevelName: Level 165
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 166
+      LevelName: Level 166
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 167
+      LevelName: Level 167
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 168
+      LevelName: Level 168
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 169
+      LevelName: Level 169
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 170
+      LevelName: Level 170
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 171
+      LevelName: Level 171
+      IsCheckPoint: 1
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 172
+      LevelName: Level 172
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 173
+      LevelName: Level 173
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 174
+      LevelName: Level 174
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 175
+      LevelName: Level 175
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 176
+      LevelName: Level 176
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 177
+      LevelName: Level 177
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 178
+      LevelName: Level 178
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 179
+      LevelName: Level 179
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 180
+      LevelName: Level 180
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 181
+      LevelName: Level 181
+      IsCheckPoint: 1
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 182
+      LevelName: Level 182
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 183
+      LevelName: Level 183
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 184
+      LevelName: Level 184
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 185
+      LevelName: Level 185
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 186
+      LevelName: Level 186
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 187
+      LevelName: Level 187
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 188
+      LevelName: Level 188
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 189
+      LevelName: Level 189
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 190
+      LevelName: Level 190
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 191
+      LevelName: Level 191
+      IsCheckPoint: 1
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 192
+      LevelName: Level 192
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 193
+      LevelName: Level 193
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 194
+      LevelName: Level 194
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 195
+      LevelName: Level 195
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 196
+      LevelName: Level 196
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 197
+      LevelName: Level 197
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 198
+      LevelName: Level 198
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 199
+      LevelName: Level 199
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 200
+      LevelName: Level 200
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 201
+      LevelName: Level 201
+      IsCheckPoint: 1
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 202
+      LevelName: Level 202
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 203
+      LevelName: Level 203
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 204
+      LevelName: Level 204
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 205
+      LevelName: Level 205
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 206
+      LevelName: Level 206
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 207
+      LevelName: Level 207
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 208
+      LevelName: Level 208
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 209
+      LevelName: Level 209
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 210
+      LevelName: Level 210
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 211
+      LevelName: Level 211
+      IsCheckPoint: 1
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 212
+      LevelName: Level 212
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 213
+      LevelName: Level 213
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 214
+      LevelName: Level 214
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 215
+      LevelName: Level 215
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 216
+      LevelName: Level 216
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 217
+      LevelName: Level 217
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 218
+      LevelName: Level 218
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 219
+      LevelName: Level 219
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 220
+      LevelName: Level 220
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 221
+      LevelName: Level 221
+      IsCheckPoint: 1
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 222
+      LevelName: Level 222
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 223
+      LevelName: Level 223
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 224
+      LevelName: Level 224
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 225
+      LevelName: Level 225
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 226
+      LevelName: Level 226
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 227
+      LevelName: Level 227
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 228
+      LevelName: Level 228
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 229
+      LevelName: Level 229
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 230
+      LevelName: Level 230
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 231
+      LevelName: Level 231
+      IsCheckPoint: 1
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 232
+      LevelName: Level 232
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 233
+      LevelName: Level 233
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 234
+      LevelName: Level 234
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 235
+      LevelName: Level 235
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 236
+      LevelName: Level 236
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 237
+      LevelName: Level 237
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 238
+      LevelName: Level 238
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 239
+      LevelName: Level 239
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 240
+      LevelName: Level 240
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 241
+      LevelName: Level 241
+      IsCheckPoint: 1
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 242
+      LevelName: Level 242
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 243
+      LevelName: Level 243
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 244
+      LevelName: Level 244
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 245
+      LevelName: Level 245
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 246
+      LevelName: Level 246
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 247
+      LevelName: Level 247
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 248
+      LevelName: Level 248
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 249
+      LevelName: Level 249
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 250
+      LevelName: Level 250
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 251
+      LevelName: Level 251
+      IsCheckPoint: 1
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 252
+      LevelName: Level 252
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 253
+      LevelName: Level 253
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 254
+      LevelName: Level 254
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 255
+      LevelName: Level 255
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 256
+      LevelName: Level 256
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 257
+      LevelName: Level 257
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 258
+      LevelName: Level 258
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 259
+      LevelName: Level 259
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 260
+      LevelName: Level 260
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 261
+      LevelName: Level 261
+      IsCheckPoint: 1
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 262
+      LevelName: Level 262
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 263
+      LevelName: Level 263
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 264
+      LevelName: Level 264
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 265
+      LevelName: Level 265
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 266
+      LevelName: Level 266
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 267
+      LevelName: Level 267
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 268
+      LevelName: Level 268
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 269
+      LevelName: Level 269
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 270
+      LevelName: Level 270
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 271
+      LevelName: Level 271
+      IsCheckPoint: 1
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 272
+      LevelName: Level 272
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 273
+      LevelName: Level 273
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 274
+      LevelName: Level 274
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 275
+      LevelName: Level 275
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 276
+      LevelName: Level 276
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 277
+      LevelName: Level 277
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 278
+      LevelName: Level 278
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 279
+      LevelName: Level 279
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 280
+      LevelName: Level 280
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 281
+      LevelName: Level 281
+      IsCheckPoint: 1
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 282
+      LevelName: Level 282
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 283
+      LevelName: Level 283
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 284
+      LevelName: Level 284
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 285
+      LevelName: Level 285
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 286
+      LevelName: Level 286
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 287
+      LevelName: Level 287
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 288
+      LevelName: Level 288
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 289
+      LevelName: Level 289
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 290
+      LevelName: Level 290
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 291
+      LevelName: Level 291
+      IsCheckPoint: 1
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 292
+      LevelName: Level 292
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 293
+      LevelName: Level 293
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 294
+      LevelName: Level 294
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 295
+      LevelName: Level 295
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 296
+      LevelName: Level 296
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 297
+      LevelName: Level 297
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 298
+      LevelName: Level 298
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 299
+      LevelName: Level 299
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 300
+      LevelName: Level 300
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 301
+      LevelName: Level 301
+      IsCheckPoint: 1
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 302
+      LevelName: Level 302
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 303
+      LevelName: Level 303
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 304
+      LevelName: Level 304
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 305
+      LevelName: Level 305
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 306
+      LevelName: Level 306
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 307
+      LevelName: Level 307
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 308
+      LevelName: Level 308
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 309
+      LevelName: Level 309
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 310
+      LevelName: Level 310
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 311
+      LevelName: Level 311
+      IsCheckPoint: 1
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 312
+      LevelName: Level 312
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 313
+      LevelName: Level 313
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 314
+      LevelName: Level 314
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 315
+      LevelName: Level 315
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 316
+      LevelName: Level 316
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 317
+      LevelName: Level 317
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 318
+      LevelName: Level 318
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 319
+      LevelName: Level 319
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 320
+      LevelName: Level 320
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 321
+      LevelName: Level 321
+      IsCheckPoint: 1
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 322
+      LevelName: Level 322
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 323
+      LevelName: Level 323
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 324
+      LevelName: Level 324
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 325
+      LevelName: Level 325
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 326
+      LevelName: Level 326
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 327
+      LevelName: Level 327
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 328
+      LevelName: Level 328
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 329
+      LevelName: Level 329
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 330
+      LevelName: Level 330
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 331
+      LevelName: Level 331
+      IsCheckPoint: 1
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 332
+      LevelName: Level 332
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 333
+      LevelName: Level 333
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 334
+      LevelName: Level 334
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 335
+      LevelName: Level 335
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 336
+      LevelName: Level 336
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 337
+      LevelName: Level 337
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 338
+      LevelName: Level 338
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 339
+      LevelName: Level 339
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 340
+      LevelName: Level 340
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 341
+      LevelName: Level 341
+      IsCheckPoint: 1
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 342
+      LevelName: Level 342
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 343
+      LevelName: Level 343
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 344
+      LevelName: Level 344
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 345
+      LevelName: Level 345
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 346
+      LevelName: Level 346
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 347
+      LevelName: Level 347
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 348
+      LevelName: Level 348
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 349
+      LevelName: Level 349
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 350
+      LevelName: Level 350
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 351
+      LevelName: Level 351
+      IsCheckPoint: 1
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 352
+      LevelName: Level 352
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 353
+      LevelName: Level 353
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 354
+      LevelName: Level 354
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 355
+      LevelName: Level 355
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 356
+      LevelName: Level 356
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 357
+      LevelName: Level 357
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 358
+      LevelName: Level 358
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 359
+      LevelName: Level 359
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 360
+      LevelName: Level 360
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 361
+      LevelName: Level 361
+      IsCheckPoint: 1
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 362
+      LevelName: Level 362
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 363
+      LevelName: Level 363
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 364
+      LevelName: Level 364
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 365
+      LevelName: Level 365
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 366
+      LevelName: Level 366
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 367
+      LevelName: Level 367
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 368
+      LevelName: Level 368
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 369
+      LevelName: Level 369
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 370
+      LevelName: Level 370
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 371
+      LevelName: Level 371
+      IsCheckPoint: 1
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 372
+      LevelName: Level 372
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 373
+      LevelName: Level 373
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 374
+      LevelName: Level 374
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 375
+      LevelName: Level 375
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 376
+      LevelName: Level 376
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 377
+      LevelName: Level 377
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 378
+      LevelName: Level 378
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 379
+      LevelName: Level 379
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 380
+      LevelName: Level 380
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 381
+      LevelName: Level 381
+      IsCheckPoint: 1
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 382
+      LevelName: Level 382
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 383
+      LevelName: Level 383
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 384
+      LevelName: Level 384
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 385
+      LevelName: Level 385
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 386
+      LevelName: Level 386
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 387
+      LevelName: Level 387
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 388
+      LevelName: Level 388
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 389
+      LevelName: Level 389
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 390
+      LevelName: Level 390
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 391
+      LevelName: Level 391
+      IsCheckPoint: 1
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 392
+      LevelName: Level 392
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 393
+      LevelName: Level 393
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 394
+      LevelName: Level 394
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 395
+      LevelName: Level 395
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 396
+      LevelName: Level 396
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 397
+      LevelName: Level 397
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 398
+      LevelName: Level 398
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 399
+      LevelName: Level 399
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 400
+      LevelName: Level 400
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 401
+      LevelName: Level 401
+      IsCheckPoint: 1
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 402
+      LevelName: Level 402
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 403
+      LevelName: Level 403
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 404
+      LevelName: Level 404
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 405
+      LevelName: Level 405
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 406
+      LevelName: Level 406
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 407
+      LevelName: Level 407
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 408
+      LevelName: Level 408
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 409
+      LevelName: Level 409
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 410
+      LevelName: Level 410
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 411
+      LevelName: Level 411
+      IsCheckPoint: 1
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 412
+      LevelName: Level 412
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 413
+      LevelName: Level 413
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 414
+      LevelName: Level 414
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 415
+      LevelName: Level 415
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0
+    - ID: 416
+      LevelName: Level 416
+      IsCheckPoint: 0
+      Width: 10
+      Height: 12
+      GlobalMoveMode: 1
+      IsLoop: 0
+      IsMagnet: 1
+      MissionID: 0
+      IsCustomLevel: 0

@@ -1,0 +1,90 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Victory_GameOver
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 1
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 8
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 52945a77384c78a4fbc400532dae78be, type: 3}
+    totalSpriteSurfaceArea: 26690
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 95de32c0b4bf4ac42b767e9ce77ffc0c, type: 3}
+  - {fileID: 21300000, guid: 57d26d8118f082c40b7e01ac7296d63e, type: 3}
+  - {fileID: 21300000, guid: 3f3442b177058f24b81694c723c60e59, type: 3}
+  - {fileID: 21300000, guid: 5b3c87245b0f2134f920218a2ca24729, type: 3}
+  - {fileID: 21300000, guid: 9e4a6d84252f0df41887e2a3a2361ab4, type: 3}
+  - {fileID: 21300000, guid: 13a608e4eb0fe894ab550b560ec1f683, type: 3}
+  - {fileID: 21300000, guid: a180d4f4d54d29040857cef2a89d7cd2, type: 3}
+  - {fileID: 21300000, guid: e96f4f86e54d2e648be068418fd0e16d, type: 3}
+  - {fileID: 21300000, guid: 90f28b1745acccc4c8d37555c0bd9f85, type: 3}
+  - {fileID: 21300000, guid: 91126ee772b25e545983dac94c2e0c61, type: 3}
+  - {fileID: 21300000, guid: 5c06d27a9a8a81f449c1e608cf23172a, type: 3}
+  - {fileID: 21300000, guid: 6c414e7aca2970d4697285c3c9518c90, type: 3}
+  - {fileID: 21300000, guid: 1fabc1bba3591af4eb00edc077c9d7da, type: 3}
+  - {fileID: 21300000, guid: dff9f5cbc7be9e94b957f374f00d98f5, type: 3}
+  - {fileID: 21300000, guid: bab3397e1d8a697478cea6d5302a8b64, type: 3}
+  - {fileID: 21300000, guid: 3e35ea8ed510e18458edd6a6eaa47f8b, type: 3}
+  - {fileID: 21300000, guid: f86b74de8636a0741a1f38627fa3cfc3, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - 10
+  - film-strip
+  - victory
+  - star_board
+  - button_rec_touched
+  - button_green_long
+  - score board
+  - Ribbon
+  - game over
+  - Glow
+  - level
+  - +30s to NEXT LEVEL
+  - star
+  - NEXT LEVEL
+  - level_round_board
+  - level_board
+  - board
+  m_RenderDataMap: {}
+  m_Tag: Victory_GameOver
+  m_IsVariant: 0

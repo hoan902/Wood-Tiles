@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "507617407761",
+    "project_id": "wooden-tile-connect",
+    "storage_bucket": "wooden-tile-connect.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:507617407761:android:18e29fc90bec1209e712b0",
+        "android_client_info": {
+          "package_name": "com.skargon.zenmatch.tileconnect.onet.animallink"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "507617407761-urvusatc8l10sko31qca0ii6rpg1tk7i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEqBnrMrYlmYFbsNBKCFCkcdSkxkVgLaM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "507617407761-urvusatc8l10sko31qca0ii6rpg1tk7i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

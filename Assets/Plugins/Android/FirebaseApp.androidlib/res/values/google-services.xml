@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources tools:keep="@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_web_client_id" xmlns:tools="http://schemas.android.com/tools">
+  <string name="gcm_defaultSenderId" translatable="false">507617407761</string>
+  <string name="google_storage_bucket" translatable="false">wooden-tile-connect.appspot.com</string>
+  <string name="project_id" translatable="false">wooden-tile-connect</string>
+  <string name="google_api_key" translatable="false">AIzaSyAEqBnrMrYlmYFbsNBKCFCkcdSkxkVgLaM</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAEqBnrMrYlmYFbsNBKCFCkcdSkxkVgLaM</string>
+  <string name="google_app_id" translatable="false">1:507617407761:android:18e29fc90bec1209e712b0</string>
+  <string name="default_web_client_id" translatable="false">507617407761-urvusatc8l10sko31qca0ii6rpg1tk7i.apps.googleusercontent.com</string>
+</resources>

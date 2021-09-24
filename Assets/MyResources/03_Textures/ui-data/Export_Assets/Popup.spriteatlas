@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Popup
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 2
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 1
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 8
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: a2c2fa9e5bb8e7d4cad82ac5aa9cd075, type: 3}
+    totalSpriteSurfaceArea: 113757
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: d8bf659023dd2ad4e83616be981a006a, type: 3}
+  - {fileID: 21300000, guid: 781e1b905dfbf8f46ad9bf54cb8eeebd, type: 3}
+  - {fileID: 21300000, guid: 916014148c877fa40bd307b82940c3bb, type: 3}
+  - {fileID: 21300000, guid: 9d0b5d64f3d7fb84b8bd284cfdc796c5, type: 3}
+  - {fileID: 21300000, guid: e8921606b8f8c4d4a8c06c2a7bca0477, type: 3}
+  - {fileID: 21300000, guid: 6f57360981be62f4db5988fa568686a9, type: 3}
+  - {fileID: 21300000, guid: 2579e8da62936cb48a556b94377be11c, type: 3}
+  - {fileID: 21300000, guid: 4d3eb9da54050614b81341d868a44ed2, type: 3}
+  - {fileID: 21300000, guid: 4e7f960bcc4fc0f4bbc25aee65e88e92, type: 3}
+  - {fileID: 21300000, guid: 6c9a243e0e2505648884318ea9634da5, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - woodenBoard
+  - board
+  - button_yes
+  - no
+  - title board
+  - TIME OUT
+  - button_no_touched
+  - button_yes_touched
+  - yes
+  - button_no
+  m_RenderDataMap: {}
+  m_Tag: Popup
+  m_IsVariant: 0

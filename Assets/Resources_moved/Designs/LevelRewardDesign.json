@@ -1,0 +1,364 @@
+{
+    "LevelRewardDesign": [
+        {
+            "LevelID": 1,
+            "Rewards": [
+                {
+                    "RewardID": "SEARCH",
+                    "Num": 1
+                }
+            ]
+        },
+        {
+            "LevelID": 2,
+            "Rewards": [
+                {
+                    "RewardID": "SHUFFLE",
+                    "Num": 1
+                }
+            ]
+        },
+        {
+            "LevelID": 3,
+            "Rewards": [
+                {
+                    "RewardID": "ROCKET",
+                    "Num": 1
+                }
+            ]
+        },
+        {
+            "LevelID": 4,
+            "Rewards": [
+                {
+                    "RewardID": "THEME",
+                    "Num": 1
+                }
+            ]
+        },
+        {
+            "LevelID": 5,
+            "Rewards": [
+                {
+                    "RewardID": "SEARCH",
+                    "Num": 1
+                }
+            ]
+        },
+        {
+            "LevelID": 6,
+            "Rewards": [
+                {
+                    "RewardID": "SHUFFLE",
+                    "Num": 1
+                }
+            ]
+        },
+        {
+            "LevelID": 7,
+            "Rewards": [
+                {
+                    "RewardID": "ROCKET",
+                    "Num": 1
+                }
+            ]
+        },
+        {
+            "LevelID": 8,
+            "Rewards": [
+                {
+                    "RewardID": "THEME",
+                    "Num": 1
+                }
+            ]
+        },
+        {
+            "LevelID": 9,
+            "Rewards": [
+                {
+                    "RewardID": "SEARCH",
+                    "Num": 1
+                }
+            ]
+        },
+        {
+            "LevelID": 10,
+            "Rewards": [
+                {
+                    "RewardID": "SHUFFLE",
+                    "Num": 1
+                }
+            ]
+        },
+        {
+            "LevelID": 11,
+            "Rewards": [
+                {
+                    "RewardID": "ROCKET",
+                    "Num": 1
+                }
+            ]
+        },
+        {
+            "LevelID": 12,
+            "Rewards": [
+                {
+                    "RewardID": "THEME",
+                    "Num": 1
+                }
+            ]
+        },
+        {
+            "LevelID": 13,
+            "Rewards": [
+                {
+                    "RewardID": "SEARCH",
+                    "Num": 1
+                }
+            ]
+        },
+        {
+            "LevelID": 14,
+            "Rewards": [
+                {
+                    "RewardID": "SHUFFLE",
+                    "Num": 1
+                }
+            ]
+        },
+        {
+            "LevelID": 15,
+            "Rewards": [
+                {
+                    "RewardID": "ROCKET",
+                    "Num": 1
+                }
+            ]
+        },
+        {
+            "LevelID": 16,
+            "Rewards": [
+                {
+                    "RewardID": "THEME",
+                    "Num": 1
+                }
+            ]
+        },
+        {
+            "LevelID": 17,
+            "Rewards": [
+                {
+                    "RewardID": "SEARCH",
+                    "Num": 1
+                }
+            ]
+        },
+        {
+            "LevelID": 18,
+            "Rewards": [
+                {
+                    "RewardID": "SHUFFLE",
+                    "Num": 1
+                }
+            ]
+        },
+        {
+            "LevelID": 19,
+            "Rewards": [
+                {
+                    "RewardID": "ROCKET",
+                    "Num": 1
+                }
+            ]
+        },
+        {
+            "LevelID": 20,
+            "Rewards": [
+                {
+                    "RewardID": "THEME",
+                    "Num": 1
+                }
+            ]
+        },
+        {
+            "LevelID": 21,
+            "Rewards": [
+                {
+                    "RewardID": "SEARCH",
+                    "Num": 1
+                }
+            ]
+        },
+        {
+            "LevelID": 22,
+            "Rewards": [
+                {
+                    "RewardID": "SHUFFLE",
+                    "Num": 1
+                }
+            ]
+        },
+        {
+            "LevelID": 23,
+            "Rewards": [
+                {
+                    "RewardID": "ROCKET",
+                    "Num": 1
+                }
+            ]
+        },
+        {
+            "LevelID": 24,
+            "Rewards": [
+                {
+                    "RewardID": "THEME",
+                    "Num": 1
+                }
+            ]
+        },
+        {
+            "LevelID": 25,
+            "Rewards": [
+                {
+                    "RewardID": "SEARCH",
+                    "Num": 1
+                }
+            ]
+        },
+        {
+            "LevelID": 26,
+            "Rewards": [
+                {
+                    "RewardID": "SHUFFLE",
+                    "Num": 1
+                }
+            ]
+        },
+        {
+            "LevelID": 27,
+            "Rewards": [
+                {
+                    "RewardID": "ROCKET",
+                    "Num": 1
+                }
+            ]
+        },
+        {
+            "LevelID": 28,
+            "Rewards": [
+                {
+                    "RewardID": "THEME",
+                    "Num": 1
+                }
+            ]
+        },
+        {
+            "LevelID": 29,
+            "Rewards": [
+                {
+                    "RewardID": "SEARCH",
+                    "Num": 1
+                }
+            ]
+        },
+        {
+            "LevelID": 30,
+            "Rewards": [
+                {
+                    "RewardID": "SHUFFLE",
+                    "Num": 1
+                }
+            ]
+        },
+        {
+            "LevelID": 31,
+            "Rewards": [
+                {
+                    "RewardID": "ROCKET",
+                    "Num": 1
+                }
+            ]
+        },
+        {
+            "LevelID": 32,
+            "Rewards": [
+                {
+                    "RewardID": "THEME",
+                    "Num": 1
+                }
+            ]
+        },
+        {
+            "LevelID": 33,
+            "Rewards": [
+                {
+                    "RewardID": "ROCKET",
+                    "Num": 1
+                }
+            ]
+        },
+        {
+            "LevelID": 34,
+            "Rewards": [
+                {
+                    "RewardID": "SEARCH",
+                    "Num": 1
+                }
+            ]
+        },
+        {
+            "LevelID": 35,
+            "Rewards": [
+                {
+                    "RewardID": "SHUFFLE",
+                    "Num": 1
+                }
+            ]
+        },
+        {
+            "LevelID": 36,
+            "Rewards": [
+                {
+                    "RewardID": "ROCKET",
+                    "Num": 1
+                }
+            ]
+        },
+        {
+            "LevelID": 37,
+            "Rewards": [
+                {
+                    "RewardID": "THEME",
+                    "Num": 1
+                }
+            ]
+        },
+        {
+            "LevelID": 38,
+            "Rewards": [
+                {
+                    "RewardID": "SHUFFLE",
+                    "Num": 1
+                }
+            ]
+        },
+        {
+            "LevelID": 39,
+            "Rewards": [
+                {
+                    "RewardID": "ROCKET",
+                    "Num": 1
+                }
+            ]
+        },
+        {
+            "LevelID": 40,
+            "Rewards": [
+                {
+                    "RewardID": "SEARCH",
+                    "Num": 1
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,140 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: PauseSetting
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 2
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 2
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 1
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 8
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: d3df545830f3d12418246deaa4b03a41, type: 3}
+    totalSpriteSurfaceArea: 376161
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: cbaa85b040b6ea24cb864a9203e4738a, type: 3}
+  - {fileID: 21300000, guid: f990a5b0ad144474996f71502579700a, type: 3}
+  - {fileID: 21300000, guid: eea045e0de17d9245bbfa26f982c7415, type: 3}
+  - {fileID: 21300000, guid: 519fd2517585df94a90959f935286a8d, type: 3}
+  - {fileID: 21300000, guid: 54b08161c1fa94942a2dc12f16032f7a, type: 3}
+  - {fileID: 21300000, guid: df36ae61d2187c24d92839aa66d27b6d, type: 3}
+  - {fileID: 21300000, guid: 5e7dd6a26e59a6e42ad4d7cac1c08d1c, type: 3}
+  - {fileID: 21300000, guid: 7b70c3c2e3e3ecd448444107c3ee1a2b, type: 3}
+  - {fileID: 21300000, guid: 028ff663092099347a92ce894d3a1e22, type: 3}
+  - {fileID: 21300000, guid: 0457e5744a2a3cc45a5e5631ce8c9e89, type: 3}
+  - {fileID: 21300000, guid: a5e2d9749729d7d488c7e5ccb79875d9, type: 3}
+  - {fileID: 21300000, guid: 04cc68a442565864abd838740bf27e02, type: 3}
+  - {fileID: 21300000, guid: 95bad3f44e6bd1e429ad0b66a4e13471, type: 3}
+  - {fileID: 21300000, guid: ee88f705b49ec6441a68756097c8f762, type: 3}
+  - {fileID: 21300000, guid: 1416a485e34fb924fb715e6983b27984, type: 3}
+  - {fileID: 21300000, guid: fbe84595fd355ad4d881148502a2af89, type: 3}
+  - {fileID: 21300000, guid: 7ef9fc16b66029f43bc45f2c458443fa, type: 3}
+  - {fileID: 21300000, guid: fcfef736fd3f5854c99e7e442a4ff93a, type: 3}
+  - {fileID: 21300000, guid: bedf1dc6257c18b4c864cf38e4ea90af, type: 3}
+  - {fileID: 21300000, guid: ddcbd7d6fd82bf340acddaabdf9b364e, type: 3}
+  - {fileID: 21300000, guid: 25a327e6e828e444995a8397c5b26201, type: 3}
+  - {fileID: 21300000, guid: 450d87272f65e40488e28f7ef44573bd, type: 3}
+  - {fileID: 21300000, guid: 291c3647d992f944c9122c49b3460ba1, type: 3}
+  - {fileID: 21300000, guid: 46e7f1575c8eb1242a6b5c3b69e0007f, type: 3}
+  - {fileID: 21300000, guid: 245cd45762f5af3478ad62f993e88c1e, type: 3}
+  - {fileID: 21300000, guid: 73029ae8a3f0a2a4b97e456dab5962d1, type: 3}
+  - {fileID: 21300000, guid: 814a95f80ea6f5e4787841eff1c752cc, type: 3}
+  - {fileID: 21300000, guid: a43e84099281cd04a9ac609dfde63bf1, type: 3}
+  - {fileID: 21300000, guid: 663099c94fd236e41aeb62f9c1aabb7c, type: 3}
+  - {fileID: 21300000, guid: 6333f30a61b1a6b40a6a04f94f04dc10, type: 3}
+  - {fileID: 21300000, guid: be70428ae42962a4789e6e01bf4fce58, type: 3}
+  - {fileID: 21300000, guid: 5b6dc8ea67d44e94d9f76cf5f8d1744b, type: 3}
+  - {fileID: 21300000, guid: 09e3400b200167846a183570d33b69a5, type: 3}
+  - {fileID: 21300000, guid: 66cf460b818b4bb489d725c557d18c0a, type: 3}
+  - {fileID: 21300000, guid: c6df1f4b20dd263489e627ab97aa4287, type: 3}
+  - {fileID: 21300000, guid: 9b1a32bb7891c134ebffa3fbd6f30c3b, type: 3}
+  - {fileID: 21300000, guid: d55ac0dbcfaefd746b3c0a9632d0ba5c, type: 3}
+  - {fileID: 21300000, guid: b55f97db2e3ae5d49879ccb31fc1b796, type: 3}
+  - {fileID: 21300000, guid: 89f4c62d908e425439f2096aefa946b7, type: 3}
+  - {fileID: 21300000, guid: c21522cda8065c146bfe62376a3f19b6, type: 3}
+  - {fileID: 21300000, guid: 9bbc09aea9e375244b137eaac49e34c8, type: 3}
+  - {fileID: 21300000, guid: 9e5c3caf5decafe4db35f43ad71598cc, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - store
+  - vibration off
+  - language 1
+  - home
+  - resume
+  - button_green_touched
+  - Sign in with Apple
+  - pause 1
+  - green long button
+  - button_blue_touched
+  - settings 1
+  - Screen Shot 2021-03-02 at 11.17.42 AM
+  - restore
+  - settings
+  - button_blue
+  - apple
+  - phone-vibration
+  - home 1
+  - facebook
+  - sound
+  - sound on
+  - close
+  - pause
+  - noti on
+  - new game
+  - button_rec
+  - x
+  - language
+  - notification
+  - button_rec_touched
+  - wood button
+  - vibration on
+  - disable_phone_sound
+  - Retore Purchase
+  - sound off
+  - noti off
+  - tutorials
+  - Sign in with Facebook
+  - Screen Shot 2021-03-26 at 21.25.49 PM
+  - facebook logo
+  - button_green
+  - apple 1
+  m_RenderDataMap: {}
+  m_Tag: PauseSetting
+  m_IsVariant: 0
