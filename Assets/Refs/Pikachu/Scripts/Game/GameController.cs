@@ -108,6 +108,15 @@ public class GameController : SingletonMonoBehaviour<GameController>
     
     [SerializeField]
     Sprite[] hikingSprites;
+    
+    [SerializeField]
+    Sprite[] autumnSprites;
+    
+    [SerializeField]
+    Sprite[] fullFuitSprites;
+    
+    [SerializeField]
+    Sprite[] schoolSprites;
 
     //HoanDN Change Tiles Set Theme
     List<Sprite[]> tileSetList;
