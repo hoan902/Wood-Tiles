@@ -175,6 +175,9 @@ public class GameController : SingletonMonoBehaviour<GameController>
         tileSetList.Add(australiaSprites);
         tileSetList.Add(cheeseSprites);
         tileSetList.Add(hikingSprites);
+        tileSetList.Add(autumnSprites);
+        tileSetList.Add(fullFuitSprites);
+        tileSetList.Add(schoolSprites);
 
         if (TILES_SET_ID <= tileSetList.Count - 1 && TILES_SET_ID > 0)
         {
