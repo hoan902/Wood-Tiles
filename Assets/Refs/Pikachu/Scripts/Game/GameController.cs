@@ -113,10 +113,38 @@ public class GameController : SingletonMonoBehaviour<GameController>
     Sprite[] autumnSprites;
     
     [SerializeField]
-    Sprite[] fullFuitSprites;
+    Sprite[] fullFruitSprites;
     
     [SerializeField]
     Sprite[] schoolSprites;
+    
+    [SerializeField]
+    Sprite[] buildingSprites;
+
+    [SerializeField]
+    Sprite[] commonGood1Sprites;
+
+    [SerializeField]
+    Sprite[] commonGood2Sprites;
+
+    [SerializeField]
+    Sprite[] fullFruitHalfSprites;
+
+    [SerializeField]
+    Sprite[] fruitHalfSprites;
+
+    [SerializeField]
+    Sprite[] nutsSpicesSprites;
+
+    [SerializeField]
+    Sprite[] thanksGivingSprites;
+
+    [SerializeField]
+    Sprite[] vetgetablesSprites;
+
+    [SerializeField]
+    Sprite[] xmasSprites;
+
 
     //HoanDN Change Tiles Set Theme
     List<Sprite[]> tileSetList;
@@ -176,7 +204,7 @@ public class GameController : SingletonMonoBehaviour<GameController>
         tileSetList.Add(cheeseSprites);
         tileSetList.Add(hikingSprites);
         tileSetList.Add(autumnSprites);
-        tileSetList.Add(fullFuitSprites);
+        tileSetList.Add(fullFruitSprites);
         tileSetList.Add(schoolSprites);
 
         if (TILES_SET_ID <= tileSetList.Count - 1 && TILES_SET_ID > 0)
