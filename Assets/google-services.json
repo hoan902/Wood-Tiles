@@ -14,6 +14,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "507617407761-q3078u6lalsrmq393ige0sg46mmhbed1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.skargon.zenmatch.tileconnect.onet.animallink",
+            "certificate_hash": "caee6dba18566040fb1b693037a20514d4866922"
+          }
+        },
+        {
           "client_id": "507617407761-urvusatc8l10sko31qca0ii6rpg1tk7i.apps.googleusercontent.com",
           "client_type": 3
         }

@@ -1,77 +1,42 @@
 {
   "project_info": {
-    "project_number": "420632405651",
-    "project_id": "tiles-connect",
-    "storage_bucket": "tiles-connect.appspot.com"
+    "project_number": "507617407761",
+    "project_id": "wooden-tile-connect",
+    "storage_bucket": "wooden-tile-connect.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:420632405651:android:2587ee75f50a0fbc8c4f66",
+        "mobilesdk_app_id": "1:507617407761:android:18e29fc90bec1209e712b0",
         "android_client_info": {
-          "package_name": "com.TileConnect.AnimalLink2021"
+          "package_name": "com.skargon.zenmatch.tileconnect.onet.animallink"
         }
       },
       "oauth_client": [
         {
-          "client_id": "420632405651-ar13hrlthq734763o7tpq3dkkkq0q2fb.apps.googleusercontent.com",
+          "client_id": "507617407761-q3078u6lalsrmq393ige0sg46mmhbed1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.skargon.zenmatch.tileconnect.onet.animallink",
+            "certificate_hash": "caee6dba18566040fb1b693037a20514d4866922"
+          }
+        },
+        {
+          "client_id": "507617407761-urvusatc8l10sko31qca0ii6rpg1tk7i.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyDBx7MvlRN1_3Ql3FUUlrs44PJGjggzXEA"
+          "current_key": "AIzaSyAEqBnrMrYlmYFbsNBKCFCkcdSkxkVgLaM"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "420632405651-ar13hrlthq734763o7tpq3dkkkq0q2fb.apps.googleusercontent.com",
+              "client_id": "507617407761-urvusatc8l10sko31qca0ii6rpg1tk7i.apps.googleusercontent.com",
               "client_type": 3
-            },
-            {
-              "client_id": "420632405651-rq27se1qgd0murlv1putep6b2i7ckrdo.apps.googleusercontent.com",
-              "client_type": 2,
-              "ios_info": {
-                "bundle_id": "com.datld.tileconnect2021"
-              }
-            }
-          ]
-        }
-      }
-    },
-    {
-      "client_info": {
-        "mobilesdk_app_id": "1:420632405651:android:a14e34470e98afeb8c4f66",
-        "android_client_info": {
-          "package_name": "com.skargon.tilesconnect"
-        }
-      },
-      "oauth_client": [
-        {
-          "client_id": "420632405651-ar13hrlthq734763o7tpq3dkkkq0q2fb.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
-      "api_key": [
-        {
-          "current_key": "AIzaSyDBx7MvlRN1_3Ql3FUUlrs44PJGjggzXEA"
-        }
-      ],
-      "services": {
-        "appinvite_service": {
-          "other_platform_oauth_client": [
-            {
-              "client_id": "420632405651-ar13hrlthq734763o7tpq3dkkkq0q2fb.apps.googleusercontent.com",
-              "client_type": 3
-            },
-            {
-              "client_id": "420632405651-rq27se1qgd0murlv1putep6b2i7ckrdo.apps.googleusercontent.com",
-              "client_type": 2,
-              "ios_info": {
-                "bundle_id": "com.datld.tileconnect2021"
-              }
             }
           ]
         }

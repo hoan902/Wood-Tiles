@@ -10,7 +10,7 @@ public class RemoteConfigManager : SingletonMonoBehaviour<RemoteConfigManager>
 {
     public IEnumerator<float> InitializeAsync()
     {
-        FirebaseApp.CheckAndFixDependenciesAsync().ContinueWith(task =>
+        /*FirebaseApp.CheckAndFixDependenciesAsync().ContinueWith(task =>
         {
             var dependencyStatus = task.Result;
             if (dependencyStatus == Firebase.DependencyStatus.Available)
@@ -27,7 +27,7 @@ public class RemoteConfigManager : SingletonMonoBehaviour<RemoteConfigManager>
                       Debug.LogError(System.String.Format("Could not resolve all Firebase dependencies: {0}", dependencyStatus));
                 // Firebase Unity SDK is not safe to use here.
             }
-        });
+        });*/
         var op = FirebaseRemoteConfig.DefaultInstance.FetchAndActivateAsync();
         while (!op.IsCompleted)
         {
