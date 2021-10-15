@@ -78,7 +78,6 @@ public class ResourcesManager : SingletonMonoBehaviour<ResourcesManager>
             isMagnet = lines[3].Trim().ToLower().Contains("true");
             //add theme HoanDN
             int.TryParse(lines[4], out t);
-            //Debug.LogError(t);
             //if (w > 0 && h > 0 && w * h % 2 == 0)
             if (w > 0 && h > 0)
             {

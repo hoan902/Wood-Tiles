@@ -807,7 +807,8 @@ public class GameController : SingletonMonoBehaviour<GameController>
             {
                 sprites = tileSetList[randomTileSet + 1];
                 currentTilesSetID = randomTileSet;
-            }else if (currentTilesSetID == tileSetList.Count - 1)
+            }
+            else if (currentTilesSetID == tileSetList.Count - 1)
             {
                 sprites = tileSetList[randomTileSet - 1];
                 currentTilesSetID = randomTileSet;

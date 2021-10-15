@@ -18,7 +18,7 @@
     <package>com.ironsource.adapters:adcolonyadapter:4.3.9</package>
     <package>com.ironsource.adapters:admobadapter:4.3.22</package>
     <package>com.ironsource.adapters:applovinadapter:4.3.28</package>
-    <package>com.ironsource.sdk:mediationsdk:7.1.10</package>
+    <package>com.ironsource.sdk:mediationsdk:7.1.11</package>
   </packages>
   <files>
     <file>Assets/GeneratedLocalRepo/Firebase/m2repository/com/google/firebase/firebase-analytics-unity/8.3.0/firebase-analytics-unity-8.3.0.aar</file>

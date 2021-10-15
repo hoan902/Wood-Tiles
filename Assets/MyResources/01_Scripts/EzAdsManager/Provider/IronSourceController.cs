@@ -6,7 +6,7 @@ using UnityEngine;
 public class IronSourceController : AdsProvider
 {
     //app key
-    public string appKey = "";
+    public string appKey = "1125a31ed";
 
     public bool IsInterstitialReady => IronSource.Agent.isInterstitialReady();
     public bool IsRewardVideoReady => IronSource.Agent.isRewardedVideoAvailable();
@@ -47,7 +47,7 @@ public class IronSourceController : AdsProvider
     private void InitIronSource()
     {
 #if UNITY_ANDROID
-        string appKey = "f67adbf9";
+        string appKey = "1125a31ed";
 #elif UNITY_IPHONE
         string appKey = "";
 #else
