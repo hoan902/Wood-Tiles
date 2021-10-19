@@ -44,31 +44,69 @@ SpriteAtlas:
     variantMultiplier: 1
     packables:
     - {fileID: 102900000, guid: 45a1d4a4b05356947b327a635375e88d, type: 3}
-    totalSpriteSurfaceArea: 230200
+    totalSpriteSurfaceArea: 738013
     bindAsDefault: 1
     isAtlasV2: 0
     cachedData: {fileID: 0}
   m_MasterAtlas: {fileID: 0}
   m_PackedSprites:
   - {fileID: 21300000, guid: 67b91970c2448844d897e635e63e84a0, type: 3}
+  - {fileID: 21300000, guid: 0c6324c1bbc619e4cb6aaf5f59143943, type: 3}
   - {fileID: 21300000, guid: 2aacc7427cd86974c8b1e003ae452f81, type: 3}
   - {fileID: 21300000, guid: de1eef636a7f07740bcc4e3a92dc38d2, type: 3}
+  - {fileID: 21300000, guid: 6bf3fee3bdc769c46b7584e18ce20322, type: 3}
+  - {fileID: 21300000, guid: ac5e0d34f0f654a40afdfaf08e573225, type: 3}
+  - {fileID: 21300000, guid: 53361994623ff4141bbe4ff35b0b6d3f, type: 3}
+  - {fileID: 21300000, guid: 8a279bc42b1e1c24b86007ca22624b19, type: 3}
   - {fileID: 21300000, guid: 65d230d4a472078458d46d3fc1a8b010, type: 3}
+  - {fileID: 21300000, guid: f447aaf44f3a6df4db48a1e22415675c, type: 3}
+  - {fileID: 21300000, guid: 732e2555a96a91d488a58351937f3ed3, type: 3}
+  - {fileID: 21300000, guid: ff2da0c5711f7f94aa59c5d3e7b9ed68, type: 3}
+  - {fileID: 21300000, guid: 1cc213b643ae23f4bbaebb2d30764f11, type: 3}
   - {fileID: 21300000, guid: 4f637037a1609e743aa09861e0093e84, type: 3}
+  - {fileID: 21300000, guid: 8eecc6a794a24dc42836c5cd90b0ec23, type: 3}
+  - {fileID: 21300000, guid: f7d8b198a5ac63c4fb111557ba843e02, type: 3}
   - {fileID: 21300000, guid: 7e935d98f2c3b554f99b2052fb1fb47f, type: 3}
+  - {fileID: 21300000, guid: 411e4b59993f2374a823014f29cd8235, type: 3}
+  - {fileID: 21300000, guid: d7f495698ec4b83469e32c3ed3868093, type: 3}
+  - {fileID: 21300000, guid: 1840dda9536465f47a34a5e236d5fc10, type: 3}
+  - {fileID: 21300000, guid: e03697c9167cf8044b5d7b0b4fa1e09c, type: 3}
+  - {fileID: 21300000, guid: 0e2d600bf000d684a99f8e31c169b148, type: 3}
+  - {fileID: 21300000, guid: 52b6f8cb6891bdb48820a4a58f6a57a1, type: 3}
   - {fileID: 21300000, guid: 3db8109c668f33447b714985858b5853, type: 3}
   - {fileID: 21300000, guid: 630034fe18029c94198203549528619f, type: 3}
+  - {fileID: 21300000, guid: 4faaca9f856a57c4188e80db7c9ab9b1, type: 3}
   - {fileID: 21300000, guid: 1becdd9fb65072a43a45ccb03a6feb6e, type: 3}
+  - {fileID: 21300000, guid: 9cfab5bfba672eb40b5a0db6ef932ff2, type: 3}
   m_PackedSpriteNamesToIndex:
   - Cactus
+  - Cat
   - Penguin
   - Camera
+  - Firework
+  - Bird
+  - 2021
+  - Squid
   - Dragon
+  - Sun
+  - Watermelon
+  - Koala
+  - Seahorse
   - Fish
+  - Jelly fish
+  - Panda
   - Elephant
+  - Pig
+  - Dog
+  - Frog
+  - Ox
+  - Hamster
+  - Alpaca
   - Duck
   - Flamingo
+  - Ice-cream
   - Lady bug
+  - Prawn
   m_RenderDataMap: {}
   m_Tag: AnimalModels
   m_IsVariant: 0

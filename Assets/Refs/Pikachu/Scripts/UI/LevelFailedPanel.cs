@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 using UnityEngine.UI;
-using DG.Tweening;
+using System;
 
 public class LevelFailedPanel : SingletonMonoBehaviour<LevelFailedPanel>
 {
