@@ -1,0 +1,4 @@
+App ID: ca-app-pub-6626742359118351~9721894112
+Ad unit Banner: ca-app-pub-6626742359118351/8955607355
+Ad unit Interstitials: ca-app-pub-6626742359118351/5016362348
+Ad unit Rewarded Video: ca-app-pub-6626742359118351/2413060368

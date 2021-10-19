@@ -28,6 +28,5 @@ public interface AdsProvider
     bool IsBannerAdsReady { get; }
     void ShowAdsBanner(Action<bool> showComplete = null);
     void DestroyAdsBanner(Action<bool> clearComplete = null);
-    void HideAdsBanner(Action<bool> hideComplete = null);
 
 }

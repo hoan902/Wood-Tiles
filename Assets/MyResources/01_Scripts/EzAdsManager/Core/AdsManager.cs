@@ -37,9 +37,13 @@ public class AdsManager : MonoBehaviour
 #endif
 
 
-        AdsProvider ironsourceProvider = new IronSourceController();
-        ironsourceProvider.Init();
-        _listAdsProvider.Add(ironsourceProvider);
+        //AdsProvider ironsourceProvider = new IronSourceController();
+        //ironsourceProvider.Init();
+        //_listAdsProvider.Add(ironsourceProvider);
+
+        AdsProvider AdmobProvider = new AdmobAdsController();
+        AdmobProvider.Init();
+        _listAdsProvider.Add(AdmobProvider);
 
         RemoveListener();
         AdsProvider.OnInterstitialLoadComplete += AdsProvider_OnInterstitialLoadComplete;
@@ -309,7 +313,7 @@ public class AdsManager : MonoBehaviour
 
     public void HideAdsBanner(Action<bool> hideComplete)
     {
-        AdsProvider.HideAdsBanner(hideComplete);
+        AdsProvider.DestroyAdsBanner(hideComplete);
     }
 
     #endregion
@@ -324,10 +328,10 @@ public class AdsManager : MonoBehaviour
 
     private void OnApplicationPause(bool pause)
     {
-        if (AdsProvider != null && AdsProvider.GetType() == typeof(IronSourceController))
-        {
-            IronSourceController irController = (IronSourceController)AdsProvider;
-            irController.OnApplicationPause(pause);
-        }
+        //if (AdsProvider != null && AdsProvider.GetType() == typeof(IronSourceController))
+        //{
+        //    IronSourceController irController = (IronSourceController)AdsProvider;
+        //    irController.OnApplicationPause(pause);
+        //}
     }
 }
