@@ -134,15 +134,24 @@ public class LevelCompletePanel : SingletonMonoBehaviour<LevelCompletePanel>
     {
         if (_listRewardData != null)
             SaveManager.Instance.Data.AddRewards(_listRewardData);
-
-        GameMaster.Instance.NextLevel();
+        StartCoroutine(waitForLevelLoad());
     }
 
     public void OnButtonNextLevelAds()
     {
         if (_listRewardData != null)
             SaveManager.Instance.Data.AddRewards(_listRewardData);
+        StartCoroutine(waitForLevelLoadAd());
+    }
 
+    IEnumerator waitForLevelLoadAd()
+    {
+        yield return new WaitForSeconds(1f);
         GameMaster.Instance.NextLevelWithAds();
+    }
+    IEnumerator waitForLevelLoad()
+    {
+        yield return new WaitForSeconds(1f);
+        GameMaster.Instance.NextLevel();
     }
 }
