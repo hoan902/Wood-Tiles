@@ -22,7 +22,7 @@ public class AppLovinManager : SingletonMonoBehaviour<AppLovinManager>
     private float lastTimeShowIntertial = 0;
     private float lastTimeShowRewardVideo = 0;
 
-#if EnableMAX
+#if !DisableMAX
     void Awake()
     {
         MaxSdkCallbacks.OnSdkInitializedEvent += sdkConfiguration =>

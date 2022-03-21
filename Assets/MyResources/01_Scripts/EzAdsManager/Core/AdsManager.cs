@@ -138,7 +138,7 @@ public class AdsManager : MonoBehaviour
         //    //}));
         //}
 
-        //AppLovinManager.Instance.ShowInterstitial(() => showComplete?.Invoke(true), () => showComplete?.Invoke(false));
+        AppLovinManager.Instance.ShowInterstitial(() => showComplete?.Invoke(true), () => showComplete?.Invoke(false));
     }
 
     //IEnumerator<float> LoadAndShowInterstitialCoroutine(float timeOut, Action<bool> showComplete)
@@ -222,7 +222,7 @@ public class AdsManager : MonoBehaviour
         //        showComplete?.Invoke(success, amount);
         //    }));
         //}
-        //AppLovinManager.Instance.ShowRewardedAd_Modify(() => showComplete?.Invoke(true,0), () => showComplete?.Invoke(false,0));
+        AppLovinManager.Instance.ShowRewardedAd_Modify(() => showComplete?.Invoke(true,0), () => showComplete?.Invoke(false,0));
     }
 
     //public void ShowAdsRewardWithNotify(Action onSuccess)
@@ -315,13 +315,13 @@ public class AdsManager : MonoBehaviour
         //}
 
         //AdsProvider.ShowAdsBanner(showComplete);
-        //AppLovinManager.Instance.ShowBanner();
+        AppLovinManager.Instance.ShowBanner();
     }
 
     public void HideAdsBanner(Action<bool> hideComplete)
     {
         //AdsProvider.DestroyAdsBanner(hideComplete);
-        //AppLovinManager.Instance.HideBanner();
+        AppLovinManager.Instance.HideBanner();
     }
 
     #endregion
